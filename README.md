@@ -1,2 +1,2 @@
-# SuperAI_Image_Prosessing_Hackathon1
+# SuperAI_Image_Processing_Hackathon1
 with 0.87 accuracy
